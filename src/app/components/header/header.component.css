@@ -1,0 +1,21 @@
+.component{
+    background-color: #F7DA80;
+}
+
+.image{
+    width: 50%; 
+    height: auto; 
+    margin-left: 30px;
+}
+
+.titled {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 120px;
+}
+
+p{
+    font-family:'Segoe UI';
+    font-size: 41;
+}

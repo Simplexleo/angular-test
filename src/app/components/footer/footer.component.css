@@ -4,7 +4,7 @@
     bottom: 0;
     width: 100%;
     background-color: red;
-    color: white;
+    color: grey;
     text-align: center;
 }
 
@@ -13,5 +13,6 @@
 }
 
 p{
-    color: black;
+    font-family:'Segoe UI';
+    font-size: x-large;
 }

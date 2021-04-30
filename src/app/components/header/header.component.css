@@ -2,10 +2,43 @@
     background-color: #F7DA80;
 }
 
-.image{
-    width: 50%; 
-    height: auto; 
-    margin-left: 30px;
+.imagePiPi{
+    width: 55%; 
+    height: auto;   
+}
+
+#logo{
+    width: 55%; 
+    height: auto;
+}
+
+.row{
+    margin: 0;
+}
+
+.imageIcon{
+    height: 30px;
+    width: 30px;
+    margin-top: 12px;
+    margin-left: -3px;
+}
+
+#search{
+    background-color: #F7DA80;
+    border-radius: 25px;
+}
+
+.light-blue{
+    background-color: #F7DA80;
+}
+
+nav .label-icon.active {
+    color: white !important;
+}
+
+.imageSearch{
+    height: 47px;
+    width: 47px;
 }
 
 .titled {
@@ -17,5 +50,11 @@
 
 p{
     font-family:'Segoe UI';
-    font-size: 41;
+    font-size: x-large;
+}
+
+.test{
+    border-width: 1px;
+    border-style: solid;
+    border-color: magenta;
 }
